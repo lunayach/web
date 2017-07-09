@@ -1,0 +1,47 @@
+body{
+    padding-top:50px ;
+    text-align: center;
+    background: url("images/bg5.jpg");
+    background-size: cover;
+}
+
+#con{
+        background: url("images/bg3.jpg");
+        padding-bottom: 20px;
+        border-radius: 10px;
+
+}
+
+.body{
+    max-width: 250px;
+
+}
+
+.body{
+    margin: 0 auto;
+
+}
+
+input[type="submit"]{
+    margin-top: 10px;
+}
+
+h2{
+    font-family: Arsenal;
+}
+input[type="text"],input[type="password"]{
+    background-color: #494949;
+    color: white;
+}
+
+input[type="text"]::placeholder,input[type="password"]::placeholder{
+    color: white;
+}
+
+#cont{
+    padding-top: 20px;
+}
+
+.alert{
+
+}

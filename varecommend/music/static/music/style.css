@@ -1,0 +1,27 @@
+body{
+    background-image: url("images/bg3.jpg");
+    background-size: cover;
+    color: black;
+    padding-top:70px;
+}
+
+.navbar{
+    border-radius:0 ;
+}
+
+.navbar-brand{
+    font-family: Satisfy;
+}
+
+.col-md-3{
+    margin: 10px;
+}
+
+
+h5{
+    font-family: Arbutus Slab;
+}
+.thumbnail{
+    border-color: white;
+    padding: 10px;
+}
